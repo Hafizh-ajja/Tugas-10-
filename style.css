@@ -39,7 +39,6 @@ body {
     background-color: #1c1c1c;
     border-radius: 12px;
     overflow: hidden;
-
     margin: 10px;
     box-shadow: 0 10px 25px rgba(0,0,0,0.4);
 }
@@ -69,24 +68,13 @@ body {
 }
 
 .text {
-    position: absolute;   
-    bottom: 0;           
-    left: 0;
+    position: absolute;
     width: 100%;
     padding: 10px;
-
     background: rgba(0, 0, 0, 0.6);
 }
 
 .text h3 {
     font-size: 14px;
     color: white;
-}
-
-.tag {
-    background-color: #1e90ff;
-    color: white;
-    font-size: 10px;
-    padding: 3px 8px;
-    border-radius: 10px;
 }
